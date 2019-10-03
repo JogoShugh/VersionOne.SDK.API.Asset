@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VersionOne.SDK.API.Asset", "VersionOne.SDK.API.Asset\VersionOne.SDK.API.Asset.csproj", "{2D8E4E3A-8C63-4AB6-B9D5-BC19E873F3CB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Examples", "Examples\Examples.csproj", "{BEA349F1-79F5-4D8F-AAC9-EC740E8FC295}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D8E4E3A-8C63-4AB6-B9D5-BC19E873F3CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D8E4E3A-8C63-4AB6-B9D5-BC19E873F3CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D8E4E3A-8C63-4AB6-B9D5-BC19E873F3CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D8E4E3A-8C63-4AB6-B9D5-BC19E873F3CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEA349F1-79F5-4D8F-AAC9-EC740E8FC295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEA349F1-79F5-4D8F-AAC9-EC740E8FC295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEA349F1-79F5-4D8F-AAC9-EC740E8FC295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEA349F1-79F5-4D8F-AAC9-EC740E8FC295}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE008410-C420-4FFA-8F95-4CCF5CB5682E}
+	EndGlobalSection
+EndGlobal
